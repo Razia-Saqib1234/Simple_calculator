@@ -1,2 +1,2 @@
-# Simple_calculator
-This is simple calculator project
+"# simple-calculator" 
+"# r1fa3-simple-calculator" 
